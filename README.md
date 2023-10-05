@@ -1,4 +1,8 @@
-### Hi there 👋
+### ✨Dragon Of Shuu✨
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" align="middle">
+</picture>
 
 <!--
 **DragonOfShuu/DragonOfShuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
