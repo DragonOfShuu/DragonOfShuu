@@ -1,7 +1,7 @@
 ### ✨Dragon Of Shuu✨
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics" align="middle">
+  <p align="center"><img src="/github-metrics.svg" alt="Metrics" width=100%></p>
 </picture>
 
 <!--
