@@ -32,16 +32,16 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -1061,7 +1061,12 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
+                            <g transform="translate(-6.8, 9.142857142857142)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1085,14 +1090,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.0704167613749" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="174.0704167613749" y="0" width="110.54607636970681" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="284.6164931310817" y="0" width="88.95337244093342" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="373.56986557201515" y="0" width="35.08205621479175" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="408.6519217868069" y="0" width="20.87926368929077" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="429.5311854760977" y="0" width="17.097638039441776" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="446.62882351553947" y="0" width="11.355725118830605" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.98454863437" y="0" width="2.015451365629969" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.03207364948764" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="174.03207364948764" y="0" width="110.53154561075644" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="284.5636192602441" y="0" width="88.94167994079946" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.50529920104356" y="0" width="35.07744484441044" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="408.582744045454" y="0" width="20.876519208819875" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="429.4592632542739" y="0" width="17.0953906357787" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="446.5546538900526" y="0" width="11.430159665868128" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.9848135559207" y="0" width="2.0151864440793186" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
